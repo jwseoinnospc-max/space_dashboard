@@ -1,0 +1,65 @@
+{
+  "updatedAt": "2026-06-18",
+  "unit": "USD million",
+  "companies": [
+    {
+      "id": "rocketlab",
+      "name": "Rocket Lab",
+      "ticker": "RKLB",
+      "period": "2026년 1분기",
+      "sourceUrl": "https://investors.rocketlabcorp.com/node/12471/html",
+      "metrics": {
+        "revenue": 200.348,
+        "revenuePrior": 122.569,
+        "grossProfit": 76.493,
+        "grossProfitPrior": 35.247,
+        "operatingLoss": -55.969,
+        "operatingLossPrior": -59.188,
+        "netLoss": -45.022,
+        "netLossPrior": -60.616,
+        "backlog": 2219.8,
+        "cash": 1200
+      },
+      "segments": [
+        { "name": "Space Systems", "revenue": 136.685, "grossProfit": 48.270 },
+        { "name": "Launch Services", "revenue": 63.663, "grossProfit": 28.223 }
+      ],
+      "insights": [
+        "매출은 전년 동기 대비 63% 증가하며 2억 달러를 돌파",
+        "Space Systems가 전체 매출의 약 68%를 차지하며 성장을 주도",
+        "매출총이익률은 38.2%로 전년 28.8% 대비 개선",
+        "수주잔고는 22.2억 달러 수준으로 단기 매출 가시성이 높음"
+      ]
+    },
+    {
+      "id": "firefly",
+      "name": "Firefly Aerospace",
+      "ticker": "FLY",
+      "period": "2026년 1분기",
+      "sourceUrl": "http://investors.fireflyspace.com/node/8356/html",
+      "metrics": {
+        "revenue": 80.9,
+        "revenuePrior": 55.9,
+        "grossProfit": 17.5,
+        "grossProfitPrior": 2.2,
+        "operatingLoss": -95.7,
+        "operatingLossPrior": null,
+        "netLoss": -96.7,
+        "netLossPrior": -60.1,
+        "backlog": 652.6,
+        "cash": 326.2
+      },
+      "segments": [
+        { "name": "Spacecraft Solutions", "revenue": 67.6, "grossProfit": null },
+        { "name": "기타 사업", "revenue": 13.3, "grossProfit": null }
+      ],
+      "insights": [
+        "매출은 전년 동기 5,590만 달러에서 8,090만 달러로 증가",
+        "Spacecraft Solutions가 6,760만 달러로 매출의 대부분을 차지",
+        "매출총이익은 1,750만 달러로 전년 220만 달러 대비 크게 개선",
+        "R&D 및 판관비 투자 확대로 영업손실은 9,570만 달러 수준"
+      ],
+      "dataNote": "Firefly IR 원문 페이지는 현재 403 응답으로 직접 접근이 제한되어 공개 재게시 자료와 SEC 요약 자료 기준으로 구성"
+    }
+  ]
+}
